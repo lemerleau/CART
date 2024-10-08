@@ -1,4 +1,4 @@
-##CART (Classification And Regression Tree) Algorithm
+# CART (Classification And Regression Tree) Algorithm
 
 CART Algorithm uses the Gini Index measure to analyse numerical data. 
 
