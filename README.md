@@ -14,7 +14,7 @@ The repo is organised as follows:
 
 - [data](data/): The CSV data files used for the lecture tutorial:
 	-  [job.csv](data/jobs.cs)
-	-  [diabetes.csv](data/diabetes.csv): For more details, please refer to the Python notebook [Pima Indians Diabetes Datasets](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+	-  [diabetes.csv](data/diabetes.csv): For more details, please refer to [Pima Indians Diabetes Datasets](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 - [docs] (docs): It contains the material used to prepare this class. 
 - [images](images/): It contains the graphics in the slides and the images saved from the Python Notebook.
